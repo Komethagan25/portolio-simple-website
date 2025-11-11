@@ -1,4 +1,4 @@
-#🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 Welcome to my **personal portfolio website**!  
 This site highlights who I am, my work, and how to connect with me.
@@ -17,7 +17,7 @@ This site highlights who I am, my work, and how to connect with me.
 To view this project:
       ✅ Live Link --
 
-##🤝 Contributing
+## 🤝 Contributing
 
  Contributions are welcome!
 
@@ -27,5 +27,5 @@ To view this project:
 
  => Submit a pull request
 
-Thank you for visiting my portfolio website!
-Your time and feedback are truly appreciated. 😊
+## Thank you for visiting my portfolio website!
+## Your time and feedback are truly appreciated. 😊
