@@ -15,7 +15,7 @@ This site highlights who I am, my work, and how to connect with me.
 
 ## 👀 How to View
 To view this project:
-      ✅ Live Link --
+      ✅ Live Link -- https://komethagan25.github.io/portolio-simple-website/
 
 ## 🤝 Contributing
 
